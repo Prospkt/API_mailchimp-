@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+h1 {
+  padding-top: 5rem;
+    color: white;
+}
+
+p {
+  color: white;
+}
+
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
